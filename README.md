@@ -16,9 +16,11 @@ This is a fully-fledged chat application built using **React.js**, **Next.js**, 
 - **Avatar Customization:** Users can modify their avatars and add images.
 - **Pop-Up Notifications:** Success and error pop-ups guide users through the app.
 
-![Login and Signup](path_to_your_image_2.png)
-![Messaging Interface](path_to_your_image_3.png)
-![Group Interactions](path_to_your_image_4.png)
+![Login ](readmeimages/login.png)
+![Signup](readmeimages/signup.png)
+![Signup](readmeimages/avatar.png)
+![Messaging Interface](readmeimages/personalchat.png)
+![Group Interactions](readmeimages/groupchat.png)
 
 ## Getting Started
 
