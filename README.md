@@ -37,16 +37,17 @@ This is a fully-fledged chat application built using **React.js**, **Next.js**, 
 2. Navigate to the Project Directory:
 
    ```bash
-cd chat-application
+   cd chat-application
+   npm install
 
-npm install
+
+3.To start the development server:
+
+    ```bash
+          npm run dev
 
 
-To start the development server:
-
-npm run dev
-
-3. The application will be available at http://localhost:3000.
+The application will be available at http://localhost:3000.
 
 Steps to Use
 Sign Up: Create a new account by providing your email, username, and password.
