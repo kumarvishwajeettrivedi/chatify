@@ -43,26 +43,33 @@ This is a fully-fledged chat application built using **React.js**, **Next.js**, 
 
 3.To start the development server:
 
-    ```bash
-          npm run dev
+    
+         npm run dev
 
 
-The application will be available at http://localhost:3000.
+## Running the Application
 
-Steps to Use
-Sign Up: Create a new account by providing your email, username, and password.
-Login: Access your account by entering your credentials.
-Modify Avatar: Personalize your profile by adding an image to your avatar.
-Select Contacts: Find and select other users on the platform to interact with.
-Chat and Group Interaction: Start personal chats or create groups to interact with multiple contacts.
-Send Messages, Files, and Emojis: Use the chat interface to send text messages, files, images, and emojis in real-time.
-Dependencies
-React.js: For building the user interface.
-Next.js: For server-side rendering and static site generation.
-Vue.js: For interactive components.
-Socket.io: For real-time communication.
-MongoDB: As the database to store user information.
-Other dependencies can be found in the package.json file.
-License
+The application will be available at [http://localhost:3000](http://localhost:3000).
+
+## Steps to Use
+
+- **Sign Up:** Create a new account by providing your email, username, and password.
+- **Login:** Access your account by entering your credentials.
+- **Modify Avatar:** Personalize your profile by adding an image to your avatar.
+- **Select Contacts:** Find and select other users on the platform to interact with.
+- **Chat and Group Interaction:** Start personal chats or create groups to interact with multiple contacts.
+- **Send Messages, Files, and Emojis:** Use the chat interface to send text messages, files, images, and emojis in real-time.
+
+## Dependencies
+
+- **React.js:** For building the user interface.
+- **Next.js:** For server-side rendering and static site generation.
+- **Vue.js:** For interactive components.
+- **Socket.io:** For real-time communication.
+- **MongoDB:** As the database to store user information.
+- **Other dependencies** can be found in the `package.json` file.
+
+## License
+
 This project is licensed under the MIT License.
 
