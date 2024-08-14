@@ -1,6 +1,6 @@
 # Chat Application
 
-![Chat Application](path_to_your_image_1.png)
+![Chat Application](readmeimages/mainpage.png)
 
 ## Overview
 
