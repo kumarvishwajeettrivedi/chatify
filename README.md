@@ -1,4 +1,4 @@
-# Chat Application
+# Chatify
 
 ![Chat Application](readmeimages/mainpage.png)
 
